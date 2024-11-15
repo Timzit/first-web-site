@@ -1,0 +1,37 @@
+/* /* button{color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 300px 60px;
+    padding: 20px 60px;
+    border-radius: 50px;
+    background-color: yellow;
+    border: 6px solid
+}
+button:hover{background-color: brown;} */
+/* img{height: 200px;
+    width: 200px;
+    border-radius: 50% ;} */
+    /* #a{padding: 20px 400px;
+    border:5px  solid;
+transition:1s;}
+    #b{padding: 20px 400px;
+        border:5px  solid;
+        transition:1s;}
+    #c{padding: 20px 400px;
+        border:5px  solid;
+        transition: 1S;
+    }
+    #a:hover{background-color: brown;
+zoom: 120%;}
+    #b:hover{background-color:yellow;zoom: 80%;}
+    #c:hover{background-color: rgb(42, 93, 165) ;}  */
+
+    /* Cours N°5 */
+   
+ 
+    @import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Ga+Maamli&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    font-family: "Ga Maamli", sans-serif;
+    }
